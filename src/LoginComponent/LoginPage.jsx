@@ -52,17 +52,6 @@ function LoginPage() {
          <div className="terms-box">
          <p className=" terms">By signing up, you agree with our <span className="text-[#E70B89]">Terms & Conditions</span></p>
          </div>
-         
-
-  
-     
-    
-       
-        
-
-
-
-
     </div>
     </div>
 

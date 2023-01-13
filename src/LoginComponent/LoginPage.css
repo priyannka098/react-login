@@ -15,18 +15,13 @@
     
 }
 .passage{
-
-    margin-top:px;
     font-size: 14px;
     text-align: center;
     letter-spacing: 0px;
      color: #1A1A1A;
 
 }
-p.para2{
 
-
-}
 .login-container{
     display:flex;
 flex-direction: row;
@@ -102,7 +97,6 @@ height:20px;
 .create-acnt-box{
     display:flex;
     justify-content:center ;
-    margin:
 }
 .terms-box{
     display:flex;
