@@ -1,0 +1,138 @@
+.outer-container{
+    margin:auto;
+    width:428px;
+    height:926px;
+    border:solid 1px;
+
+}
+.image{
+    margin-top: 45px;
+    width:198px;
+    height:198px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+}
+.passage{
+
+    margin-top:px;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0px;
+     color: #1A1A1A;
+
+}
+p.para2{
+
+
+}
+.login-container{
+    display:flex;
+flex-direction: row;
+width:100%;
+margin-top:3.8rem;
+justify-content: space-between;
+}
+.login{
+    width:45%;
+    font-size: 15px;
+    border-bottom: 2.2px solid #E70B89;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+}
+.Signup{
+    width:56%;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+.login-form{
+    width:100%;
+}
+.box-styling{
+
+
+    width:62%;
+    display:block;
+    margin:auto;
+    border-radius: 1.8rem;
+    margin-top:1rem;
+    border:1px solid #1A1A1A;
+    fill:none;
+}
+     .abc:active {
+        background: transparent;
+        fill:none;
+
+
+}
+.submit{
+    color:white;
+    background-color:#E70B89 ;
+    border:none;
+    margin-top:1.7rem;
+    height:40px;
+    font-weight: 600;
+    
+}
+.circle{
+    border-radius: 50px;
+    border: 1px solid #E6E6E6;
+    width:2.8rem;
+    height: 2.8rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.6rem;
+    margin-left: 0.6rem;
+}
+.img-icon{
+height:20px;
+}
+.icons-image-box{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.create-acnt-box{
+    display:flex;
+    justify-content:center ;
+    margin:
+}
+.terms-box{
+    display:flex;
+    justify-content:center;
+    margin:20px;
+}
+.create-act{
+    font-size:12px ;
+}
+.terms{
+    font-size: 12px;
+}
+.psw-box{
+    width:80%;
+    display:flex;
+    justify-content: end;
+    margin-top: 10px;
+
+}
+.psw{
+    font-size: 14px;
+    color: #E70B89;
+}
+.text-box{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    font-size: 11px;
+    color:#9D9D9D
+    
+}
+
