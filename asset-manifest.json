@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-login/static/css/main.5dd6ae51.css",
+    "main.js": "/react-login/static/js/main.3136e0c9.js",
+    "static/js/787.c6eb3a31.chunk.js": "/react-login/static/js/787.c6eb3a31.chunk.js",
+    "static/media/twitter.png": "/react-login/static/media/twitter.6ef1c2158d7f105d14c2.png",
+    "static/media/Roboto-Regular.ttf": "/react-login/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/facebook.png": "/react-login/static/media/facebook.ed546ff410865d52c558.png",
+    "static/media/google.png": "/react-login/static/media/google.35bcce80fd9ee301f1c9.png",
+    "static/media/logo.svg": "/react-login/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-login/index.html",
+    "main.5dd6ae51.css.map": "/react-login/static/css/main.5dd6ae51.css.map",
+    "main.3136e0c9.js.map": "/react-login/static/js/main.3136e0c9.js.map",
+    "787.c6eb3a31.chunk.js.map": "/react-login/static/js/787.c6eb3a31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dd6ae51.css",
+    "static/js/main.3136e0c9.js"
+  ]
+}
