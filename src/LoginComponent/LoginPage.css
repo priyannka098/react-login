@@ -1,12 +1,14 @@
 .outer-container{
     margin:auto;
     width:428px;
-    height:926px;
-    border:solid 1px;
+    height:850px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 .image{
-    margin-top: 45px;
+    margin-top: 60px;
     width:198px;
     height:198px;
         display: block;
@@ -27,35 +29,55 @@
 flex-direction: row;
 width:100%;
 margin-top:3.8rem;
-justify-content: space-between;
+justify-content: space-around;
 }
 .login{
     width:45%;
     font-size: 15px;
-    border-bottom: 2.2px solid #E70B89;
     text-align: center;
-    font-weight: 600;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
 }
-.Signup{
-    width:56%;
+
+.focus-login {
+    border-bottom: 2.2px solid #E70B89;
+    font-weight: 600;
+    width:45%;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.signup{
+    width:45%;
     font-size: 15px;
     text-align: center;
 
 }
 
+.focus-signup{
+    width:45%;
+    font-size: 15px;
+    text-align: center;
+    border-bottom: 2.2px solid #E70B89;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+}
+
 .login-form{
     width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 .box-styling{
-
-
-    width:62%;
-    display:block;
+    width:68%;
+   
     margin:auto;
     border-radius: 1.8rem;
-    margin-top:1rem;
+    margin-top:1.3rem;
     border:1px solid #1A1A1A;
     fill:none;
 }
@@ -69,8 +91,7 @@ justify-content: space-between;
     color:white;
     background-color:#E70B89 ;
     border:none;
-    margin-top:1.7rem;
-    height:40px;
+    margin-top:2rem;
     font-weight: 600;
     
 }
@@ -82,11 +103,11 @@ justify-content: space-between;
     display:flex;
     justify-content: center;
     align-items: center;
-    margin-right: 0.6rem;
-    margin-left: 0.6rem;
+    margin-right: 0.7rem;
+    margin-left: 0.7rem;
 }
 .img-icon{
-height:20px;
+height:24px;
 }
 .icons-image-box{
     display:flex;
@@ -110,7 +131,7 @@ height:20px;
     font-size: 12px;
 }
 .psw-box{
-    width:80%;
+    width: 69%;
     display:flex;
     justify-content: end;
     margin-top: 10px;
